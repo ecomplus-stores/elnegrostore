@@ -35,6 +35,13 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "623cfb512e405e04fffa0d46:categories:TÁBUAS DE SERVIR:/categoria-tabuas-de-servir"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "623cf8012e405e04fffa06ac:categories:FACAS:/categoria-facas"
     },
     {
