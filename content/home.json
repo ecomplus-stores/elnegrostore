@@ -35,6 +35,13 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "643573b54bd2e929c1caa7d9:categories:ABRIDOR DE GARRAFAS MAGNÉTICO:/abridor-de-garrafas-magnetico"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "6418b9d74bd2e929c1a739c6:categories:CHARUTEIRO / SUPORTE DE COPOS:/charuteiro--suporte-de-copos"
     },
     {
@@ -50,13 +57,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "623cf8362e405e04fffa073f:categories:ACESSÓRIOS:/categoria-acessorios"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "643573b54bd2e929c1caa7d9:categories:ABRIDOR DE GARRAFAS MAGNÉTICO:/abridor-de-garrafas-magnetico"
     }
   ]
 }
