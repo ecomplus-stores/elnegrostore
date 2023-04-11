@@ -56,21 +56,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "623cfa792e405e04fffa0b7d:categories:TRIDENTE:/categoria-tridente"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "623cfa432e405e04fffa0b2c:categories:GARRA DE URSO:/categoria-garra-de-urso"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "623cf8ad2e405e04fffa086b:categories:SACOLA SUSTENTÁVEL:/categoria-sacola-sustentavel"
+      "collection_id": "643573b54bd2e929c1caa7d9:categories:ABRIDOR DE GARRAFAS MAGNÉTICO:/abridor-de-garrafas-magnetico"
     }
   ]
 }
