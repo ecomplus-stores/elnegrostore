@@ -8,11 +8,12 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/whatsapp-image-2022-05-28-at-21.05.48.jpeg",
+          "img": "/img/uploads/texto-do-seu-paragrafo-1-.jpg",
           "link": "",
           "alt": "Headset banner",
           "start": "",
-          "end": ""
+          "end": "",
+          "mobile_img": "/img/uploads/texto-do-seu-paragrafo-480-300-px-1-.png"
         }
       ]
     },
@@ -57,6 +58,12 @@
       "limit": 12,
       "page": 1,
       "collection_id": "623cf8362e405e04fffa073f:categories:ACESSÓRIOS:/categoria-acessorios"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": []
     }
   ]
 }
