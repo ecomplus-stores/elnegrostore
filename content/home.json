@@ -36,6 +36,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "623cfb512e405e04fffa0d46:categories:TÁBUAS DE SERVIR:/categoria-tabuas-de-servir"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "623cf8362e405e04fffa073f:categories:ACESSÓRIOS:/categoria-acessorios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "64504e344bd2e929c1e81608:categories:SUPORTE PARA FACAS:/suporte-para-facas"
     },
     {
@@ -51,13 +65,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "623cf8012e405e04fffa06ac:categories:FACAS:/categoria-facas"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "623cf8362e405e04fffa073f:categories:ACESSÓRIOS:/categoria-acessorios"
     }
   ]
 }
