@@ -464,6 +464,12 @@
     </url>
   
     <url>
+      <loc>https://elnegrostore.com.br/en-1001</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://elnegrostore.com.br/tabuas-exclusivas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -608,15 +614,15 @@
     </url>
   
     <url>
-      <loc>https://elnegrostore.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://elnegrostore.com.br/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://elnegrostore.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
