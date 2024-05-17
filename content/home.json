@@ -8,12 +8,12 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/augusto.png",
+          "img": "/img/uploads/novo.png",
           "link": "",
-          "alt": "Headset banner",
+          "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/novo.png"
         }
       ]
     },
