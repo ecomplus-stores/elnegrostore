@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.81460e44718f1269508fdda58570f8d1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4e4f78675d8b1d841ff46dd5d042069d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.53ca8ab624cdf66bdd7b70e23c00d2b4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a98b8da54a7724a8dbf154386c7eda42.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.dae14d7cd96bfe7f7c10534b1dfd67df.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "elnegrostore",
+  "short_name": "EL NEGRO",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Peças únicas e exclusivas. ",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
