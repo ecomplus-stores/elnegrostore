@@ -3,12 +3,12 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "",
+    "buyText": "Solicitar Valor",
     "buy": "",
     "strHasQuantitySelector": "_",
     "strHasPromotionTimer": "_",
     "lowQuantityToWarn": 12,
     "maxVariationOptionsBtns": 6,
-    "quoteInfo": ""
+    "quoteInfo": "wa.me/5554992219047"
   }
 }
