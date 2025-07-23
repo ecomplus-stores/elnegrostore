@@ -23,27 +23,24 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "623cf47c2e405e04fff9ff6d:categories:TÁBUAS EXCLUSIVAS:/tabuas-exclusivas",
-      "sort": "lowest_price",
-      "title": "",
-      "headless": false,
-      "limit": 24,
-      "page": 1
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "623cf47c2e405e04fff9ff6d:categories:TÁBUAS NUMERADAS:/tabuas-numeradas"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "64dab1362cd6b65959175b02:categories:RÚSTICAS:/linha-rustica"
+      "collection_id": "688024c5578b5f79546e7413:categories:TÁBUAS EXCLUSIVAS:/tabuas-exclusivas"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "623cfb512e405e04fffa0d46:categories:TÁBUAS DE SERVIR:/categoria-tabuas-de-servir"
+      "collection_id": "64dab1362cd6b65959175b02:categories:TÁBUAS RÚSTICAS:/tabuas-rustica"
     },
     {
       "type": "collection-shelf",
